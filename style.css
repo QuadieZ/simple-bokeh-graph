@@ -10,14 +10,14 @@ p {
     margin:0.3rem;
 }
 
+.name {
+    position: absolute;
+    right: 0;
+    top:0;
+}
+
 .ref {
     position: absolute;
     right: 0;
-    bottom:0;
-}
-
-.name {
-    position: absolute;
-    left: 0;
     bottom:0;
 }
