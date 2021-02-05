@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow-y: hidden;
+}
+
+p {
+    margin:0.3rem;
+}
+
+.ref {
+    position: absolute;
+    right: 0;
+    bottom:0;
+}
+
+.name {
+    position: absolute;
+    left: 0;
+    bottom:0;
+}
